@@ -13,21 +13,21 @@
 ### 📊 Resumen de Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabbianflorez-uptc&show_icons=true&locale=es&hide_border=true&title_color=2E7D32&text_color=777&icon_color=2E7D32&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabbianflorez-uptc&show_icons=true&locale=es&theme=github_dark&hide_border=true&title_color=2E7D32&icon_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabbianflorez-uptc&layout=compact&locale=es&hide_border=true&title_color=2E7D32&text_color=777&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabbianflorez-uptc&layout=compact&locale=es&theme=github_dark&hide_border=true&title_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="48%" />
 </p>
 
 ### 📈 Racha y Actividad de Código
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&locale=es&hide_border=true&background=00000000&stroke=2E7D32&fire=2E7D32&ring=2E7D32&currStreakNum=2E7D32&currStreakLabel=777&sideNums=777&sideLabels=777" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&locale=es&hide_border=true&theme=github_dark&background=0d1117&stroke=2E7D32&fire=2E7D32&ring=2E7D32&currStreakNum=ffffff" width="100%" />
 </p>
 
 ### 🚀 Flujo de Trabajo Semanal
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabbianflorez-uptc&theme=github&area=true&hide_border=true&color=2E7D32&bg_color=00000000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabbianflorez-uptc&theme=github-dark&area=true&hide_border=true&color=2E7D32&bg_color=0d1117" width="100%" />
 </p>
 
 ---
