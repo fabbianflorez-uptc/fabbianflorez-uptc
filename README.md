@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&theme=dark&hide_border=true&background=0d1117&stroke=2E7D32&fire=2E7D32&ring=2E7D32&currStreakLabel=2E7D32" width="100%" />
 </p>
-### 🚀 Flujo de Trabajo Semanal
+# 🚀 Flujo de Trabajo Semanal
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabbianflorez-uptc&theme=github-dark&area=true&hide_border=true&color=2E7D32&bg_color=0d1117" width="100%" />
