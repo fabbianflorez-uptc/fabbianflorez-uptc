@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=fabbianflorez-uptc&label=Vistas%20del%20Perfil&color=2E7D32&style=flat-square" alt="Views">
 </p>
 
-## 📂 My GitHub Data
+# 📂 My GitHub Data
 - 🏆 **Contribuciones este año:** ![Stats](https://img.shields.io/github/commit-activity/y/fabbianflorez-uptc?color=2E7D32&label=%20&style=flat-square)
 - 📜 **Repositorios Públicos:** ![Repos](https://img.shields.io/github/repos/count/fabbianflorez-uptc?color=2E7D32&label=%20&style=flat-square)
 
 ---
 
-### 📈 Racha y Actividad de Código
+# 📈 Racha y Actividad de Código
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&theme=dark&hide_border=true&background=0d1117&stroke=2E7D32&fire=2E7D32&ring=2E7D32&currStreakLabel=2E7D32" width="100%" />
