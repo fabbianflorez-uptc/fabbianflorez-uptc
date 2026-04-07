@@ -13,20 +13,20 @@
 ### 📊 Estadísticas de Contribución
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabbianflorez-uptc&show_icons=true&theme=dark_green&locale=es&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabbianflorez-uptc&layout=compact&theme=dark_green&locale=es&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabbianflorez-uptc&show_icons=true&theme=dark_green&locale=es&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabbianflorez-uptc&layout=compact&theme=dark_green&locale=es&hide_border=true&bg_color=0d1117" width="48%" />
 </p>
 
 ### 📈 Actividad Reciente
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&theme=dark_green&locale=es&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&theme=dark_green&locale=es&hide_border=true&background=0d1117" width="100%" />
 </p>
 
 ### 🚀 Flujo de Trabajo
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabbianflorez-uptc&theme=github-dark&area=true&hide_border=true&color=4CAF50" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabbianflorez-uptc&theme=github-dark&area=true&hide_border=true&color=4CAF50&bg_color=0d1117" width="100%" />
 </p>
 
 ---
