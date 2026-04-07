@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FabbianFlorez/FabbianFlorez/main/logo_uptc.png" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_UPTC.svg/512px-Logo_UPTC.svg.png'" alt="UPTC Banner" width="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_UPTC.svg/512px-Logo_UPTC.svg.png" alt="UPTC Banner" width="250">
 </p>
 
 # 👨‍💻 @FabbianFlorez | UPTC
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Code%20Time-En%20progreso-2E7D32?style=flat-square&logo=wakatime&logoColor=white" alt="Code Time">
   <img src="https://komarev.com/ghpvc/?username=fabbianflorez-uptc&label=Vistas%20del%20Perfil&color=2E7D32&style=flat-square" alt="Views">
 </p>
+
+## 📂 My GitHub Data
+- 📦 **Uso de almacenamiento:** Dinámico
+- 🏆 **Contribuciones este año:** ![Stats](https://img.shields.io/github/commit-activity/y/fabbianflorez-uptc?color=2E7D32&label=%20&style=flat-square)
+- 📜 **Repositorios Públicos:** ![Repos](https://img.shields.io/github/repos/count/fabbianflorez-uptc?color=2E7D32&label=%20&style=flat-square)
 
 ---
 
@@ -21,6 +27,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&theme=dark&hide_border=true&background=0d1117&stroke=2E7D32&fire=2E7D32&ring=2E7D32&currStreakLabel=2E7D32" width="100%" />
+</p>
+
+### 🕒 Horarios y Productividad (WakaTime)
+*Nota: Esta sección se actualizará con tus horas reales cuando vincules tu API Key.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fabbianflorez-uptc&layout=compact&theme=dark&color_auto=false&title_color=2E7D32&text_color=ffffff&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
 
 ### 🚀 Flujo de Trabajo Semanal
