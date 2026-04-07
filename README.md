@@ -10,18 +10,10 @@
 </p>
 
 ## 📂 My GitHub Data
-- 📦 **Uso de almacenamiento:** Dinámico
 - 🏆 **Contribuciones este año:** ![Stats](https://img.shields.io/github/commit-activity/y/fabbianflorez-uptc?color=2E7D32&label=%20&style=flat-square)
 - 📜 **Repositorios Públicos:** ![Repos](https://img.shields.io/github/repos/count/fabbianflorez-uptc?color=2E7D32&label=%20&style=flat-square)
 
 ---
-
-### 📊 Resumen de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabbianflorez-uptc&show_icons=true&locale=es&theme=dark&hide_border=true&title_color=2E7D32&icon_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabbianflorez-uptc&layout=compact&locale=es&theme=dark&hide_border=true&title_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="42%" />
-</p>
 
 ### 📈 Racha y Actividad de Código
 
@@ -30,8 +22,6 @@
 </p>
 
 ### 🕒 Horarios y Productividad (WakaTime)
-*Nota: Esta sección se actualizará con tus horas reales cuando vincules tu API Key.*
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fabbianflorez-uptc&layout=compact&theme=dark&color_auto=false&title_color=2E7D32&text_color=ffffff&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
