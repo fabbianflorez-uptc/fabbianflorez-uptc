@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.uptc.edu.co/export/sites/default/portal/.galleries/images/logos/logo_uptc.png" alt="UPTC Banner" width="450">
+  <img src="https://raw.githubusercontent.com/FabbianFlorez/FabbianFlorez/main/logo_uptc.png" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_UPTC.svg/512px-Logo_UPTC.svg.png'" alt="UPTC Banner" width="400">
 </p>
 
 # 👨‍💻 @FabbianFlorez | UPTC
@@ -13,15 +13,14 @@
 ### 📊 Resumen de Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabbianflorez-uptc&show_icons=true&locale=es&theme=github_dark&hide_border=true&title_color=2E7D32&icon_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabbianflorez-uptc&layout=compact&locale=es&theme=github_dark&hide_border=true&title_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabbianflorez-uptc&show_icons=true&locale=es&theme=dark&hide_border=true&title_color=2E7D32&icon_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabbianflorez-uptc&layout=compact&locale=es&theme=dark&hide_border=true&title_color=2E7D32&text_color=ffffff&bg_color=0d1117" width="42%" />
 </p>
 
 ### 📈 Racha y Actividad de Código
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&locale=es&hide_border=true&theme=github_dark&background=0d1117&stroke=2E7D32&fire=2E7D32&ring=2E7D32&currStreakNum=ffffff" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabbianflorez-uptc&theme=dark&hide_border=true&background=0d1117&stroke=2E7D32&fire=2E7D32&ring=2E7D32&currStreakLabel=2E7D32" width="100%" />
 </p>
 
 ### 🚀 Flujo de Trabajo Semanal
