@@ -24,8 +24,8 @@
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,py,git,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ph,ts,js,html,css,py,git,vscode,linux" />
 </p>
 
 ---
